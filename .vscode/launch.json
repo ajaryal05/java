@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "Java_9412fdf1"
+        },
+        {
+            "type": "java",
             "name": "SquarePattern",
             "request": "launch",
             "mainClass": "SquarePattern",
