@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "validSudoku",
+            "request": "launch",
+            "mainClass": "validSudoku",
+            "projectName": "Java_9412fdf1"
+        },
+        {
+            "type": "java",
             "name": "GFG",
             "request": "launch",
             "mainClass": "GFG",
