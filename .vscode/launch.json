@@ -1,0 +1,69 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SquarePattern",
+            "request": "launch",
+            "mainClass": "SquarePattern",
+            "projectName": "Java_9412fdf1"
+        },
+        {
+            "type": "java",
+            "name": "listNode",
+            "request": "launch",
+            "mainClass": "listNode",
+            "projectName": "Java_9412fdf1"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_9412fdf1"
+        },
+        {
+            "type": "java",
+            "name": "twoSum",
+            "request": "launch",
+            "mainClass": "twoSum",
+            "projectName": "Java_9412fdf1"
+        },
+        {
+            "type": "java",
+            "name": "Valid_Paranthesis",
+            "request": "launch",
+            "mainClass": "Valid_Paranthesis",
+            "projectName": "Java_9412fdf1"
+        },
+        {
+            "type": "java",
+            "name": "InfixToPostfixConverter",
+            "request": "launch",
+            "mainClass": "InfixToPostfixConverter",
+            "projectName": "Java_9412fdf1"
+        },
+        {
+            "type": "java",
+            "name": "second",
+            "request": "launch",
+            "mainClass": "second",
+            "projectName": "Java_9412fdf1"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "Java_9412fdf1"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        }
+    ]
+}
